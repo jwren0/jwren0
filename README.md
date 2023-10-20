@@ -24,6 +24,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="NixOS" alt="NixOS" height="40" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" height="40" width="40">&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/37247796" title="Void" alt="Void" height="40" width="40">&nbsp;
 </div>
 
 ### Misc
